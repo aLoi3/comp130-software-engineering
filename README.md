@@ -1,7 +1,5 @@
 # comp130-software-engineering
 
-## How artificially intelligent agents can be improved in flexibility in a test-driven development?
-
 ## What programming paradigms are more suitable for artificially intelligent agents?
 
 Throughout the last few centuries "computer" has become one of the most important technologies we have now.
